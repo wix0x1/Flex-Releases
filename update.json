@@ -1,10 +1,10 @@
 {
-  "versionCode": 172,
-  "versionName": "1.2.72",
-  "releaseNotes": "FLEX v1.2.72: New unified liquid glass styling, enhanced YouTube audio & video quality selection, background radio playback with lock-screen & notification controls, live download speed tracking in notification shade, full edge-to-edge support, and universal device performance optimizations.",
-  "downloadUrl": "https://github.com/wix0x1/Flex-Releases/releases/download/v1.2.72/app-release.apk",
-  "sha256": "3b03f16402876a6a1b883bc056af62be15c15b48f9dcb18cc0f654b742ebee91",
+  "versionCode": 173,
+  "versionName": "1.2.73",
+  "releaseNotes": "FLEX v1.2.73: New unified liquid glass styling, enhanced YouTube audio & video quality selection, background radio playback with lock-screen & notification controls, live download speed tracking in notification shade, full edge-to-edge support, and universal device performance optimizations.",
+  "downloadUrl": "https://github.com/wix0x1/Flex-Releases/releases/download/v1.2.73/app-release.apk",
+  "sha256": "2615c2fb90926e832b48eda7b294a15ae4d7e0fbe21b30bcd8b17efb1451b7de",
   "minSdk": 24,
-  "apkSizeBytes": 4582760,
-  "signature": "MEQCIBFS0MB1an4qWw7TNZW4hoPDcMw75YTliDkpSs6W/8BkAiAyy7Irsj/7eicgUkQkPScLqanyzgiM92Slr5OKPIsA+A=="
+  "apkSizeBytes": 4671813,
+  "signature": "MEQCICDlX8TwnTp2/kLi//6swZuk4F49546yZWmhHcqPgj1fAiB6xZq9lXIx9ZUAcQbNehimLURmWYiCizoaGV7HJWUAsw=="
 }
