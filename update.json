@@ -1,10 +1,10 @@
 {
-  "versionCode": 180,
-  "versionName": "1.3.0",
-  "releaseNotes": "FLEX v1.3.0: Full Arabic/English/French localization with reactive RTL support, Live TV Data Saver with background play and PiP, faster low-bandwidth Radio streaming, animated Weather scenes, YouTube playback boosts, Dynamic Island controls, and matching notification icon.",
-  "downloadUrl": "https://github.com/wix0x1/Flex-Releases/releases/download/v1.3.0/app-release.apk",
-  "sha256": "2af57451d04994e7d1d2a92b0226a7312b76e639ad7d683b02cd01910b618532",
+  "versionCode": 190,
+  "versionName": "1.9",
+  "releaseNotes": "FLEX v1.9: Signature-guarded automatic updates, smoother Book reader with Arabic auto-hide controls, prioritized TV Stream categories with persistent stream quality selection, and faster stability.",
+  "downloadUrl": "https://github.com/wix0x1/Flex-Releases/releases/download/v1.9/app-release.apk",
+  "sha256": "219888224833afd4d93855a7689059b23cacce47be1a5b000bfd301b6f6c3de6",
   "minSdk": 24,
-  "apkSizeBytes": 4791559,
-  "signature": "MEUCIEUgxZiK+9LMzPSlci998zB7K8DmQbU2/i4g5n+yz5kDAiEAiKq0SIgNsYrs26+I0MxiN71aKr2YxDMdCL4vbEifZys="
+  "apkSizeBytes": 4945526,
+  "signature": "MEUCIBxUFSvhpJ21NzcrPsncpfKHT19Bvh8xbJ2QXeyh38nEAiEAx226Oojpxrgk0Hnji6G12AgZEg+6fvvE+Uh9M8Bp5cY="
 }
