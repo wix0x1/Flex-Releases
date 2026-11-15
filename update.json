@@ -3,8 +3,8 @@
   "versionName": "1.9",
   "releaseNotes": "FLEX v1.9: Signature-guarded automatic updates, smoother Book reader with Arabic auto-hide controls, prioritized TV Stream categories with persistent stream quality selection, and faster stability.",
   "downloadUrl": "https://github.com/wix0x1/Flex-Releases/releases/download/v1.9/app-release.apk",
-  "sha256": "219888224833afd4d93855a7689059b23cacce47be1a5b000bfd301b6f6c3de6",
+  "sha256": "dc2bfb83ba1a70e60d5df02a72de56d186460b10826e0b4ba0c44ccea0741d7b",
   "minSdk": 24,
-  "apkSizeBytes": 4945526,
-  "signature": "MEUCIBxUFSvhpJ21NzcrPsncpfKHT19Bvh8xbJ2QXeyh38nEAiEAx226Oojpxrgk0Hnji6G12AgZEg+6fvvE+Uh9M8Bp5cY="
+  "apkSizeBytes": 4945466,
+  "signature": "MEUCID/CTZIaYyz+fa09TfHOiu41Je8BW6A6EetU6Xn3CGofAiEA5Tzdj2A7RE4SzTbzsNg9JEhEKA6V8uav3K4ho6smLKI="
 }
