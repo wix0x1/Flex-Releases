@@ -1,10 +1,10 @@
 {
-  "versionCode": 191,
-  "versionName": "1.9.1",
-  "releaseNotes": "FLEX v1.9.1: External web, YouTube & social link chooser fixes, Settings -> External Links controls, and signature-guarded automatic updates.",
-  "downloadUrl": "https://github.com/wix0x1/Flex-Releases/releases/download/v1.9.1/app-release.apk",
-  "sha256": "6f49184fe468621ad4d651e9f2212ac06ca2cf6da99ad3fcfae20db480544056",
+  "versionCode": 192,
+  "versionName": "1.9.2",
+  "releaseNotes": "FLEX v1.9.2: 60fps UI & GPU smoothness optimizations, low-RAM adaptive Liquid Glass & Coil caching, Baseline Profile AOT startup, and faster homescreen update checks.",
+  "downloadUrl": "https://github.com/wix0x1/Flex-Releases/releases/download/v1.9.2/app-release.apk",
+  "sha256": "3813568d0593f28390580ebfb3ec0271063b1a957b957cd3155487ce110f7939",
   "minSdk": 24,
-  "apkSizeBytes": 4951361,
-  "signature": "MEQCIEIHT289DIIAzEu1U+LB0rfMYFJtlEaCAoP4VEJ5SUzfAiAb2wkLGiamBHKihbrqAUqaT9UF4zIBoo9H31JETy2hHg=="
+  "apkSizeBytes": 4946059,
+  "signature": "MEUCIGHdbionHnqye7E6ucwwT1rxy8uJqqCTTYu1hLrUIyB/AiEAsXQiw5wX1six0x6ZVBxzc3y78xGbCMJrygLFzkmR148="
 }
