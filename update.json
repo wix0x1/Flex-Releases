@@ -1,10 +1,10 @@
 {
-  "versionCode": 192,
-  "versionName": "1.9.2",
-  "releaseNotes": "FLEX v1.9.2: 60fps UI & GPU smoothness optimizations, low-RAM adaptive Liquid Glass & Coil caching, Baseline Profile AOT startup, and faster homescreen update checks.",
-  "downloadUrl": "https://github.com/wix0x1/Flex-Releases/releases/download/v1.9.2/app-release.apk",
-  "sha256": "3813568d0593f28390580ebfb3ec0271063b1a957b957cd3155487ce110f7939",
+  "versionCode": 193,
+  "versionName": "1.9.3",
+  "releaseNotes": "FLEX v1.9.3: 60fps UI & GPU smoothness optimizations, low-RAM adaptive Liquid Glass & Coil caching, Baseline Profile AOT startup, and faster homescreen update checks.",
+  "downloadUrl": "https://github.com/wix0x1/Flex-Releases/releases/download/v1.9.3/app-release.apk",
+  "sha256": "a311d1866896df1e82af0812e9c2903b3e78122e2615fde9ff44d4ba9716e1eb",
   "minSdk": 24,
-  "apkSizeBytes": 4946059,
-  "signature": "MEUCIGHdbionHnqye7E6ucwwT1rxy8uJqqCTTYu1hLrUIyB/AiEAsXQiw5wX1six0x6ZVBxzc3y78xGbCMJrygLFzkmR148="
+  "apkSizeBytes": 5012440,
+  "signature": "MEYCIQD2sNoeONsKeSBWIXtHqyeVk183N5U5djt3ExvtZbcXHQIhAN7Zmvluzrc2r4zVZnCutd8RtvDN/ZzMkUnHMVIgHJ+l"
 }
