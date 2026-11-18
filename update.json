@@ -1,10 +1,10 @@
 {
-  "versionCode": 193,
-  "versionName": "1.9.3",
-  "releaseNotes": "FLEX v1.9.3: 60fps UI & GPU smoothness optimizations, low-RAM adaptive Liquid Glass & Coil caching, Baseline Profile AOT startup, and faster homescreen update checks.",
-  "downloadUrl": "https://github.com/wix0x1/Flex-Releases/releases/download/v1.9.3/app-release.apk",
-  "sha256": "a311d1866896df1e82af0812e9c2903b3e78122e2615fde9ff44d4ba9716e1eb",
+  "versionCode": 194,
+  "versionName": "1.9.4",
+  "releaseNotes": "FLEX v1.9.4: Interactive Live TV scroll/drag mini-player and cleaner channel guide, streamlined Share Media handoff, and faster, reliable updates on Infinix, itel/Atel, Tecno & Android Go devices.",
+  "downloadUrl": "https://github.com/wix0x1/Flex-Releases/releases/download/v1.9.4/app-release.apk",
+  "sha256": "bbe7ee72463a596106ca14b94266819cdf7fd24ddda1db879780033b67d23e5a",
   "minSdk": 24,
-  "apkSizeBytes": 5012440,
-  "signature": "MEYCIQD2sNoeONsKeSBWIXtHqyeVk183N5U5djt3ExvtZbcXHQIhAN7Zmvluzrc2r4zVZnCutd8RtvDN/ZzMkUnHMVIgHJ+l"
+  "apkSizeBytes": 5045705,
+  "signature": "MEUCIFlfAkROcKX88056y238aaBYSwxnjmc7W6Qb/mjyDKTUAiEAuw2jGFYqRzowyQsHcK0kR6UF+AcJSw2bYACoD4/pnRM="
 }
