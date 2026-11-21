@@ -1,10 +1,10 @@
 {
-  "versionCode": 194,
-  "versionName": "1.9.4",
-  "releaseNotes": "FLEX v1.9.4: Interactive Live TV scroll/drag mini-player and cleaner channel guide, streamlined Share Media handoff, and faster, reliable updates on Infinix, itel/Atel, Tecno & Android Go devices.",
-  "downloadUrl": "https://github.com/wix0x1/Flex-Releases/releases/download/v1.9.4/app-release.apk",
-  "sha256": "bbe7ee72463a596106ca14b94266819cdf7fd24ddda1db879780033b67d23e5a",
+  "versionCode": 195,
+  "versionName": "1.9.5",
+  "releaseNotes": "FLEX v1.9.5: Interactive Live TV scroll/drag mini-player and cleaner channel guide, streamlined Share Media handoff, and faster, reliable updates on Infinix, itel/Atel, Tecno & Android Go devices.",
+  "downloadUrl": "https://github.com/wix0x1/Flex-Releases/releases/download/v1.9.5/app-release.apk",
+  "sha256": "222590e4f6a6af689e76e6a414a32de19eb9b6b6d26cad698bde129705b45689",
   "minSdk": 24,
-  "apkSizeBytes": 5045705,
-  "signature": "MEUCIFlfAkROcKX88056y238aaBYSwxnjmc7W6Qb/mjyDKTUAiEAuw2jGFYqRzowyQsHcK0kR6UF+AcJSw2bYACoD4/pnRM="
+  "apkSizeBytes": 5167964,
+  "signature": "MEUCIQDs3qokQ1TryxSBsd2APyoShygwxDKhnYSIvXzL5DlbwwIgKQTlDI6xMutsWHLxGoDFQ2PcBxZyQJGG8Xjkvc+dFH4="
 }
