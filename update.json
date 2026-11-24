@@ -1,10 +1,10 @@
 {
-  "versionCode": 195,
-  "versionName": "1.9.5",
-  "releaseNotes": "FLEX v1.9.5: Interactive Live TV scroll/drag mini-player and cleaner channel guide, streamlined Share Media handoff, and faster, reliable updates on Infinix, itel/Atel, Tecno & Android Go devices.",
-  "downloadUrl": "https://github.com/wix0x1/Flex-Releases/releases/download/v1.9.5/app-release.apk",
-  "sha256": "ce877fe8d7318abe7606bcf9cbefc37bf4793a05517595f3cff3ac96b5ae24a1",
+  "versionCode": 196,
+  "versionName": "1.9.6",
+  "releaseNotes": "FLEX v1.9.6: Liquid Glass 2.0 specular rims & optical refraction, stability/memory leak fixes across Android versions, Arabic RTL & AMOLED UI polish, and Live TV EPG & caption improvements.",
+  "downloadUrl": "https://github.com/wix0x1/Flex-Releases/releases/download/v1.9.6/app-release.apk",
+  "sha256": "40098e518e0c590c3d4267834f9bdff64e6f5c5cb29e44bf9c144d08fa81e0c5",
   "minSdk": 24,
-  "apkSizeBytes": 5167965,
-  "signature": "MEUCIHJ0xs5+Yp6JSy5sGSKe7mb/RmOvAQFp1sReSgMQidzFAiEA4QQAzip7wqnxviK84u7sH8x1ZAWsAIilqepu2WhlTZc="
+  "apkSizeBytes": 5211081,
+  "signature": "MEUCIQDf3w37z5mvzEX8zpxD0+T+FnK9GLDR0G0jsQrXJRy+vAIgXXP8MGdqQesAF9fkbgY74+nHZexG8fBhtejwx4pn3Jc="
 }
